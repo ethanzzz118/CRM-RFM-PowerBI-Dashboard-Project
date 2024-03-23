@@ -18,6 +18,10 @@ Security Parameters: ALL Executives
 5>	Total Sales by Business Category
 # Data model simulation
 ![image](https://github.com/ethanzzz118/CRM-RFM-PowerBI-Dashboard-Project/assets/110695227/2844c232-1425-45a3-97cf-c783791b7f19)
+# Segmentation rule
+We define a segmentation rule based on each customer's RFM score, so we can writing Dax functions to proceed our work.
+![c7c61dc4c519041306732ca44df4eaa](https://github.com/ethanzzz118/CRM-RFM-PowerBI-Dashboard-Project/assets/110695227/d0ffce4e-37b9-4f65-bd8d-f51e6f50bd18)
+
 # Dashboard Screen shot
 
 ![973863e6d2e607adf141ef9ca262898](https://github.com/ethanzzz118/CRM-RFM-PowerBI-Dashboard-Project/assets/110695227/0511c939-7ca8-4bbb-b523-62b6b88dc74d)
